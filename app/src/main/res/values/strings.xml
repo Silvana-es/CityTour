@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">CityTour</string>
+    <string name="titulo_app">CityTour</string>
+    <string name="subtitulo_app">Guía turística · Museo virtual</string>
+
+    <string name="monumento_1_titulo">Parroquia de San Juan Evangelista</string>
+    <string name="monumento_1_desc">Templo colonial de piedra en el corazón de Xochitepec, centro de la vida comunitaria y las fiestas del pueblo.</string>
+    <string name="monumento_2_titulo">Exhacienda San Antonio El Puente (Real del Puente)</string>
+    <string name="monumento_2_desc">Antigua hacienda azucarera del siglo XVIII con imponentes arcos, acueductos y jardines junto al río.</string>
+    <string name="monumento_3_titulo">Panteón La Soledad</string>
+    <string name="monumento_3_desc">Cementerio histórico de Xochitepec lleno de tradición local, especialmente emblemático durante el Día de Muertos.</string>
+
+    <string name="cd_imagen">Imagen de %1$s</string>
+    <string name="contador_imagen">Imagen %1$d de %2$d</string>
+    <string name="btn_anterior">‹ Anterior</string>
+    <string name="btn_siguiente">Siguiente ›</string>
+
+    <string name="titulo_audio">Explicación histórica</string>
+    <string name="etiqueta_estado">Estado: %1$s</string>
+    <string name="estado_detenido">detenido</string>
+    <string name="estado_reproduciendo">reproduciendo</string>
+    <string name="estado_pausado">en pausa</string>
+    <string name="btn_play">▶ Play</string>
+    <string name="btn_reanudar">▶ Reanudar</string>
+    <string name="btn_pausa">❚❚ Pausa</string>
+    <string name="btn_stop">■ Stop</string>
+    <string name="etiqueta_volumen">Volumen</string>
+</resources>

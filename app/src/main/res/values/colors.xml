@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="rosa_pastel">#FFF8BBD0</color>
+    <color name="rosa_pastel_intenso">#FFF48FB1</color>
+    <color name="rosa_superficie">#FFFFE4EC</color>
+    <color name="rosa_fondo">#FFFFF0F5</color>
+    <color name="rosa_acento">#FFD6638E</color>
+    <color name="texto_oscuro">#FF4A2535</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
